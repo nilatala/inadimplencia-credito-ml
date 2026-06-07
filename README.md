@@ -159,10 +159,20 @@ Modelos de classificação de inadimplência podem auxiliar instituições finan
 
 ```text
 📦 Classificacao_Inadimplencia_Cartao_Credito
- ┣ 📜 README.md
- ┣ 📓 Classificacao_Inadimplencia.ipynb
- ┣ 📊 imagens/
- ┗ 📁 dados/
+├── 📁 data
+│   └── Base de dados utilizada no projeto
+├── 📁 images
+│   └── Gráficos e imagens gerados durante as análises
+├── 📜 LICENSE
+│   └── Licença do projeto
+├── 📜 README.md
+│   └── Documentação do projeto
+├── 📓 inadimplencia_credito_classificacao.ipynb
+│   └── Notebook com toda a análise e modelagem
+├── 🐍 inadimplencia_credito_classificacao.py
+│   └── Versão em script Python do projeto
+└── 📋 requirements.txt
+    └── Dependências necessárias para execução
 ```
 
 ---
