@@ -183,6 +183,8 @@ Modelos de classificação de inadimplência podem auxiliar instituições finan
 
 📌 Projeto desenvolvido para fins de estudo e aprimoramento de habilidades em Análise de Dados, Machine Learning e Modelagem Preditiva.
 
+📅 Data: Junho de 2026
+
 🔗 LinkedIn: www.linkedin.com/in/elizabeth-thomaz-a91440157
 
 🔗 GitHub: https://github.com/nilatala
