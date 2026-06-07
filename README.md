@@ -185,6 +185,6 @@ Modelos de classificação de inadimplência podem auxiliar instituições finan
 
 📅 Data: Junho de 2026
 
-🔗 LinkedIn: www.linkedin.com/in/elizabeth-thomaz-a91440157
+🔗 [LinkedIn](www.linkedin.com/in/elizabeth-thomaz-a91440157)
 
-🔗 GitHub: https://github.com/nilatala
+🔗 [GitHub](https://github.com/nilatala)
